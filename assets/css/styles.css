@@ -105,7 +105,7 @@ p {
 }
 
 img {
-  width: 35%;
+  width: 30%;
   overflow: hidden;
 }
 
@@ -470,7 +470,7 @@ Header Style
   font-weight: 400;
   text-transform: none;
   border-radius: 20px;
-  padding-left: 0px;
+  padding-left: 20px;
 }
 
 .header-area .main-nav .nav li:last-child a i {
